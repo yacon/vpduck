@@ -1,0 +1,46 @@
+.background {
+    margin: auto;
+    background:-moz-linear-gradient(bottom,#2f405e,#3660b2);
+    background:-webkit-gradient(linear,left top,left bottom,from(#3660b2),to(#2f405e));
+    width: 180px;
+    height: 180px;
+    border-radius: 15px;
+}
+.block {
+    background: #fff;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+}
+.block1 {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.block2 {
+    margin-top: 40px;
+    margin-left: 95px;
+}
+.block3 {
+    margin-top: 75px;
+    margin-left: 25px;
+}
+.block4 {
+    margin-top: 75px;
+    margin-left: 60px;
+}
+.block5 {
+    margin-top: 75px;
+    margin-left: 95px;
+}
+.block6 {
+    margin-top: 110px;
+    margin-left: 60px;
+}
+.block7 {
+    margin-top: 110px;
+    margin-left: 95px;
+}
+.block8 {
+    margin-top: 110px;
+    margin-left: 130px;
+}
